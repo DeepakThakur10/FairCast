@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915919311253",
+    "project_id": "faircast-653b9",
+    "storage_bucket": "faircast-653b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915919311253:android:286a5869049548575fe69c",
+        "android_client_info": {
+          "package_name": "com.example.faircast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6cTehOn_g9c3DNpXZpQ3CevbwJm_xkuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
